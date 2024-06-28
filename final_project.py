@@ -1,4 +1,3 @@
-pip install pandas yfinance plotly streamlit
 import pandas as pd 
 import yfinance as yf
 import datetime
